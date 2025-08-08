@@ -50,7 +50,6 @@
   
 - **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** - AI-powered dashboard built using Salesforce and Tableau Cloud to forecast future sales trends, helping sales teams and managers make data-driven decisions.
 
----
 
 ## 📬 Connect With Me
 <p align="left">
