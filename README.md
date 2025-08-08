@@ -21,15 +21,17 @@
 
 ---
 
+<div style="background-color:#0d1117; padding:20px; border-radius:10px; color:white;">
+
 ## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="Apache" width="40" height="40"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Pyspark](https://img.shields.io/badge/PySpark-B33128?style=for-the-badge&logo=PySpark&logoColor=white)
+
 
 ---
 
@@ -39,17 +41,32 @@
 
 ---
 
+<!-- ===================== PROJECTS ===================== -->
 ## 🚀 Featured Projects
-- **[Retail Data Engineering Pipeline](https://github.com/Suri6363498/retail-data-engineering-pipeline)**  
-  End-to-end Azure data pipeline for retail analytics with ADF, Databricks & Power BI.
-  
-- **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)**  
-  Power BI + Python time-series model for sales prediction with 20% improved accuracy.
-  
- - **[Retail Data Engineering Pipeline Project](https://github.com/Suri6363498/retail-data-engineering-pipeline)**-This project simulates a real-world retail scenario where sales data is cleaned, transformed, and visualized.
-  
- - **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** - AI-powered dashboard built using Salesforce and Tableau Cloud to forecast future sales trends, helping sales teams and managers make data-driven decisions.
 
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">📦 Retail Data Engineering Pipeline</h3>
+<p>This project simulates a real-world retail scenario where sales data is cleaned, transformed, and visualized.</p>
+<p align="center">
+<a href="https://github.com/Suri6363498/retail-data-engineering-pipeline">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</td>
+
+<td width="50%">
+<h3 align="center">📊 Sales Forecasting Dashboard</h3>
+<p>AI-powered dashboard built using Salesforce and Tableau Cloud to forecast future sales trends.</p>
+<p align="center">
+<a href="https://github.com/Suri6363498/sales-forecasting-dashboard">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+</td>
+</tr>
+</table>
 
 ## 📬 Connect With Me
 <p align="left">
