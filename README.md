@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Suri6363498/Suri6363498/main/banner.png" alt="Suraj Korishetti - Data Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/Suri6363498/Suri6363498/main/banner.svg" alt="Suraj Korishetti - Data Engineer" width="100%">
 </p>
-
 
 ---
 
