@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Suri6363498/Suri6363498/main/banner.svg" alt="Suraj Korishetti - Data Engineer" width="100%">
-</p>
+<!-- Header Section -->
+<div align="center" style="background-color:black; padding:20px; border-radius:10px;">
+  
+# Hi 👋, I'm **Suraj Korishetti**  
+🚀 *A Passionate Data Engineer & Analyst from India*  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-korishetti-333a44258)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/Suri6363498)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:surajkorishetti111@gmail.com)
+
+</div>
 
 ---
 
@@ -9,8 +17,7 @@
 - 🛠 Skilled in **Azure, Power BI, SQL, Python, Databricks, Data Factory, PySpark**
 - 📊 Built **ETL pipelines, dashboards, and optimized cloud workflows**
 - 🌱 Currently learning **Advanced Data Engineering on Azure**
-- 📬 Reach me at **[Email](mailto:surajkorishetti111@gmail.com)**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/suraj-korishetti-333a44258) | [GitHub](https://github.com/Suri6363498)
+- 📬 Reach me at **surajkorishetti111@gmail.com**
 
 ---
 
@@ -27,16 +34,17 @@
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suri6363498&show_icons=true&theme=dark&hide_border=true" alt="Suraj's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suri6363498&layout=compact&theme=dark&hide_border=true" height="165">
-</p>
+![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suri6363498&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Suri6363498&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## 🚀 Featured Projects
-- **[Retail Data Engineering Pipeline](https://github.com/Suri6363498/retail-data-engineering-pipeline)** – End-to-end Azure data pipeline for retail analytics with ADF, Databricks & Power BI.
-- **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** – Power BI + Python time-series model for sales prediction with 20% improved accuracy.
+- **[Retail Data Engineering Pipeline](https://github.com/Suri6363498/retail-data-engineering-pipeline)**  
+  End-to-end Azure data pipeline for retail analytics with ADF, Databricks & Power BI.
+  
+- **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)**  
+  Power BI + Python time-series model for sales prediction with 20% improved accuracy.
 
 ---
 
