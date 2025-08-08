@@ -45,6 +45,10 @@
   
 - **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)**  
   Power BI + Python time-series model for sales prediction with 20% improved accuracy.
+  
+ **[Retail Data Engineering Pipeline Project](https://github.com/Suri6363498/retail-data-engineering-pipeline)**-This project simulates a real-world retail scenario where sales data is cleaned, transformed, and visualized.
+  
+- **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** - AI-powered dashboard built using Salesforce and Tableau Cloud to forecast future sales trends, helping sales teams and managers make data-driven decisions.
 
 ---
 
