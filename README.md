@@ -34,8 +34,9 @@
 ### 🚀 Projects
 - **[Retail Data Engineering Pipeline](https://github.com/Suri6363498/retail-data-engineering-pipeline)** – End-to-end Azure data pipeline for retail sales analytics.
 - **[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** – Power BI + Python forecasting model with 20% higher accuracy.
+- **[Retail Data Engineering Pipeline Project](https://github.com/Suri6363498/retail-data-engineering-pipeline)**-This project simulates a real-world retail scenario where sales data is cleaned, transformed, and visualized.
 
----
+---**[Sales Forecasting Dashboard](https://github.com/Suri6363498/sales-forecasting-dashboard)** - AI-powered dashboard built using Salesforce and Tableau Cloud to forecast future sales trends, helping sales teams and managers make data-driven decisions.
 
 ### 📬 Connect With Me
 <p align="left">
